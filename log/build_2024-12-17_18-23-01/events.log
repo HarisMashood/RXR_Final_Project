@@ -1,0 +1,124 @@
+[0.000000] (-) TimerEvent: {}
+[0.000539] (ros2_exercises) JobQueued: {'identifier': 'ros2_exercises', 'dependencies': OrderedDict()}
+[0.000632] (ros2_exercises) JobStarted: {'identifier': 'ros2_exercises'}
+[0.070595] (-) TimerEvent: {}
+[0.171830] (-) TimerEvent: {}
+[0.272623] (-) TimerEvent: {}
+[0.373291] (-) TimerEvent: {}
+[0.474017] (-) TimerEvent: {}
+[0.574736] (-) TimerEvent: {}
+[0.675385] (-) TimerEvent: {}
+[0.776605] (-) TimerEvent: {}
+[0.877798] (-) TimerEvent: {}
+[0.978289] (-) TimerEvent: {}
+[1.078795] (-) TimerEvent: {}
+[1.179490] (-) TimerEvent: {}
+[1.280505] (-) TimerEvent: {}
+[1.381200] (-) TimerEvent: {}
+[1.481871] (-) TimerEvent: {}
+[1.582578] (-) TimerEvent: {}
+[1.683439] (-) TimerEvent: {}
+[1.784069] (-) TimerEvent: {}
+[1.884587] (-) TimerEvent: {}
+[1.985127] (-) TimerEvent: {}
+[2.085720] (-) TimerEvent: {}
+[2.186203] (-) TimerEvent: {}
+[2.286895] (-) TimerEvent: {}
+[2.387580] (-) TimerEvent: {}
+[2.497819] (-) TimerEvent: {}
+[2.598783] (-) TimerEvent: {}
+[2.699434] (-) TimerEvent: {}
+[2.800060] (-) TimerEvent: {}
+[2.900695] (-) TimerEvent: {}
+[3.001226] (-) TimerEvent: {}
+[3.101652] (-) TimerEvent: {}
+[3.202058] (-) TimerEvent: {}
+[3.302461] (-) TimerEvent: {}
+[3.403011] (-) TimerEvent: {}
+[3.503558] (-) TimerEvent: {}
+[3.604129] (-) TimerEvent: {}
+[3.704688] (-) TimerEvent: {}
+[3.805397] (-) TimerEvent: {}
+[3.905890] (-) TimerEvent: {}
+[4.007015] (-) TimerEvent: {}
+[4.107403] (-) TimerEvent: {}
+[4.209193] (-) TimerEvent: {}
+[4.309694] (-) TimerEvent: {}
+[4.410237] (-) TimerEvent: {}
+[4.511053] (-) TimerEvent: {}
+[4.611668] (-) TimerEvent: {}
+[4.713035] (-) TimerEvent: {}
+[4.813649] (-) TimerEvent: {}
+[4.863987] (ros2_exercises) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/hmashood/exercises_ws/build/ros2_exercises/build', '--no-deps', 'symlink_data'], 'cwd': '/home/hmashood/exercises_ws/build/ros2_exercises', 'env': {'VNCDESKTOP': '6be1e32f75ec:1 (hmashood)', 'QT_SCALE_FACTOR': '1', 'USER': 'hmashood', 'SUPERVISOR_GROUP_NAME': 'vnc', 'HOSTNAME': '6be1e32f75ec', 'XDG_SESSION_TYPE': 'x11', '__GLX_VENDOR_LIBRARY_NAME': 'nvidia', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/home/hmashood/ros2_ws/install/custom_nav2_planner/lib:/home/hmashood/ros2_ws/install/create_plan_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/hmashood', 'OLDPWD': '/home/hmashood', 'GIO_LAUNCHED_DESKTOP_FILE': '/home/hmashood/Desktop/terminator.desktop', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-4H5sHDYvtO,guid=1c187b5a906137ddb1460dcf67617435', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '73639', 'GNOME_KEYRING_CONTROL': '/home/hmashood/.cache/keyring-L1AWY2', 'COLCON_PREFIX_PATH': '/home/hmashood/exercises_ws/install:/home/hmashood/ros2_ws/src/install:/home/hmashood/ros2_ws/install', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'ROS_LOCALHOST_ONLY': '0', 'INSIDE_CAJA_PYTHON': '', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SESSION_MANAGER': 'local/6be1e32f75ec:@/tmp/.ICE-unix/786,unix/6be1e32f75ec:/tmp/.ICE-unix/786', 'DISPLAY': ':1', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'EXERCISES_WS': '/home/hmashood/exercises_ws', 'XDG_CURRENT_DESKTOP': 'MATE', 'SUPERVISOR_ENABLED': '1', 'SSH_AUTH_SOCK': '/home/hmashood/.cache/keyring-L1AWY2/ssh', 'ROS_DOMAIN_ID': '69', 'AMENT_PREFIX_PATH': '/home/hmashood/exercises_ws/install/ros2_exercises:/home/hmashood/exercises_ws/install/path_planner_example:/home/hmashood/ros2_ws/src/install/ros2_exercises:/home/hmashood/ros2_ws/src/install/andino_gz:/home/hmashood/ros2_ws/install/ros2_exercises:/home/hmashood/ros2_ws/install/custom_nav2_planner:/home/hmashood/ros2_ws/install/create_plan_msgs:/home/hmashood/ros2_ws/install/andino_gz:/opt/ros/humble', 'DEBIAN_FRONTEND': 'noninteractive', 'TERMINATOR_UUID': 'urn:uuid:8560dd74-c81e-44d3-9c13-414688476466', 'VNC_PASSWORD': '', 'IGN_GAZEBO_RESOURCE_PATH': '/home/hmashood/ros2_ws/src/install/andino_gz/share/andino_gz/models:/home/hmashood/ros2_ws/install/andino_gz/share/andino_gz/models', 'PASSWD': 'ubuntu', 'SUPERVISOR_SERVER_URL': 'unix:///var/run/supervisor.sock', 'SUPERVISOR_PROCESS_NAME': 'vnc', 'PWD': '/home/hmashood/exercises_ws/build/ros2_exercises', 'PASSWORD': '', 'PYTHONPATH': '/home/hmashood/exercises_ws/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/exercises_ws/build/ros2_exercises:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/exercises_ws/build/path_planner_example:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:/home/hmashood/ros2_ws/src/build/ros2_exercises:/home/hmashood/ros2_ws/src/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/ros2_ws/src/install/andino_gz/local/lib/python3.10/dist-packages:/home/hmashood/ros2_ws/build/ros2_exercises:/home/hmashood/ros2_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/ros2_ws/install/create_plan_msgs/local/lib/python3.10/dist-packages:/home/hmashood/ros2_ws/install/andino_gz/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'NVIDIA_VISIBLE_DEVICES': 'all', 'MATE_DESKTOP_SESSION_ID': 'this-is-deprecated', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/hmashood/ros2_ws/src/install/andino_gz:/home/hmashood/ros2_ws/install/custom_nav2_planner:/home/hmashood/ros2_ws/install/create_plan_msgs:/home/hmashood/ros2_ws/install/andino_gz', 'ROS2_WS': '/home/hmashood/ros2_ws', 'QT_FONT_DPI': '96'}, 'shell': False}
+[4.914067] (-) TimerEvent: {}
+[5.014718] (-) TimerEvent: {}
+[5.115363] (-) TimerEvent: {}
+[5.215970] (-) TimerEvent: {}
+[5.316459] (-) TimerEvent: {}
+[5.418164] (-) TimerEvent: {}
+[5.518623] (-) TimerEvent: {}
+[5.619133] (-) TimerEvent: {}
+[5.719722] (-) TimerEvent: {}
+[5.820403] (-) TimerEvent: {}
+[5.921477] (-) TimerEvent: {}
+[6.022130] (-) TimerEvent: {}
+[6.122808] (-) TimerEvent: {}
+[6.223501] (-) TimerEvent: {}
+[6.324293] (-) TimerEvent: {}
+[6.424958] (-) TimerEvent: {}
+[6.525467] (-) TimerEvent: {}
+[6.625965] (-) TimerEvent: {}
+[6.726462] (-) TimerEvent: {}
+[6.827330] (-) TimerEvent: {}
+[6.928694] (-) TimerEvent: {}
+[7.029432] (-) TimerEvent: {}
+[7.130101] (-) TimerEvent: {}
+[7.231251] (-) TimerEvent: {}
+[7.278360] (ros2_exercises) StdoutLine: {'line': b'running develop\n'}
+[7.331433] (-) TimerEvent: {}
+[7.433039] (-) TimerEvent: {}
+[7.533530] (-) TimerEvent: {}
+[7.633961] (-) TimerEvent: {}
+[7.734437] (-) TimerEvent: {}
+[7.834840] (-) TimerEvent: {}
+[7.935291] (-) TimerEvent: {}
+[8.035852] (-) TimerEvent: {}
+[8.136526] (-) TimerEvent: {}
+[8.237034] (-) TimerEvent: {}
+[8.338133] (-) TimerEvent: {}
+[8.438858] (-) TimerEvent: {}
+[8.539518] (-) TimerEvent: {}
+[8.640126] (-) TimerEvent: {}
+[8.740672] (-) TimerEvent: {}
+[8.841646] (-) TimerEvent: {}
+[8.942232] (-) TimerEvent: {}
+[9.045837] (-) TimerEvent: {}
+[9.149973] (-) TimerEvent: {}
+[9.250527] (-) TimerEvent: {}
+[9.300191] (ros2_exercises) StdoutLine: {'line': b'running egg_info\n'}
+[9.300555] (ros2_exercises) StdoutLine: {'line': b'creating ros2_exercises.egg-info\n'}
+[9.301431] (ros2_exercises) StdoutLine: {'line': b'writing ros2_exercises.egg-info/PKG-INFO\n'}
+[9.301963] (ros2_exercises) StdoutLine: {'line': b'writing dependency_links to ros2_exercises.egg-info/dependency_links.txt\n'}
+[9.304061] (ros2_exercises) StdoutLine: {'line': b'writing entry points to ros2_exercises.egg-info/entry_points.txt\n'}
+[9.304213] (ros2_exercises) StdoutLine: {'line': b'writing requirements to ros2_exercises.egg-info/requires.txt\n'}
+[9.304323] (ros2_exercises) StdoutLine: {'line': b'writing top-level names to ros2_exercises.egg-info/top_level.txt\n'}
+[9.304833] (ros2_exercises) StdoutLine: {'line': b"writing manifest file 'ros2_exercises.egg-info/SOURCES.txt'\n"}
+[9.308641] (ros2_exercises) StdoutLine: {'line': b"reading manifest file 'ros2_exercises.egg-info/SOURCES.txt'\n"}
+[9.310129] (ros2_exercises) StdoutLine: {'line': b"writing manifest file 'ros2_exercises.egg-info/SOURCES.txt'\n"}
+[9.314314] (ros2_exercises) StdoutLine: {'line': b'running build_ext\n'}
+[9.314684] (ros2_exercises) StdoutLine: {'line': b'Creating /home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages/ros2-exercises.egg-link (link to .)\n'}
+[9.317034] (ros2_exercises) StdoutLine: {'line': b'Installing odometry_publisher script to /home/hmashood/exercises_ws/install/ros2_exercises/lib/ros2_exercises\n'}
+[9.317905] (ros2_exercises) StdoutLine: {'line': b'\n'}
+[9.318221] (ros2_exercises) StdoutLine: {'line': b'Installed /home/hmashood/exercises_ws/build/ros2_exercises\n'}
+[9.318339] (ros2_exercises) StdoutLine: {'line': b'running symlink_data\n'}
+[9.318425] (ros2_exercises) StdoutLine: {'line': b'creating /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index\n'}
+[9.318510] (ros2_exercises) StdoutLine: {'line': b'creating /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index/resource_index\n'}
+[9.318590] (ros2_exercises) StdoutLine: {'line': b'creating /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index/resource_index/packages\n'}
+[9.318670] (ros2_exercises) StdoutLine: {'line': b'symbolically linking /home/hmashood/exercises_ws/build/ros2_exercises/resource/ros2_exercises -> /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index/resource_index/packages\n'}
+[9.318753] (ros2_exercises) StdoutLine: {'line': b'symbolically linking /home/hmashood/exercises_ws/build/ros2_exercises/package.xml -> /home/hmashood/exercises_ws/install/ros2_exercises/share/ros2_exercises\n'}
+[9.350680] (-) TimerEvent: {}
+[9.455878] (ros2_exercises) CommandEnded: {'returncode': 0}
+[9.456381] (-) TimerEvent: {}
+[9.562496] (-) TimerEvent: {}
+[9.610880] (ros2_exercises) JobEnded: {'identifier': 'ros2_exercises', 'rc': 0}
+[9.611769] (-) EventReactorShutdown: {}

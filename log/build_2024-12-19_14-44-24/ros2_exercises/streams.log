@@ -1,0 +1,17 @@
+[11.786s] Invoking command in '/home/hmashood/exercises_ws/build/ros2_exercises': PYTHONPATH=/home/hmashood/exercises_ws/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/ros2_exercises/build --no-deps symlink_data
+[14.903s] running develop
+[16.770s] running egg_info
+[16.770s] writing ros2_exercises.egg-info/PKG-INFO
+[16.771s] writing dependency_links to ros2_exercises.egg-info/dependency_links.txt
+[16.771s] writing entry points to ros2_exercises.egg-info/entry_points.txt
+[16.771s] writing requirements to ros2_exercises.egg-info/requires.txt
+[16.771s] writing top-level names to ros2_exercises.egg-info/top_level.txt
+[16.790s] reading manifest file 'ros2_exercises.egg-info/SOURCES.txt'
+[16.794s] writing manifest file 'ros2_exercises.egg-info/SOURCES.txt'
+[16.806s] running build_ext
+[16.806s] Creating /home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages/ros2-exercises.egg-link (link to .)
+[16.812s] Installing odometry_publisher script to /home/hmashood/exercises_ws/install/ros2_exercises/lib/ros2_exercises
+[16.816s] 
+[16.817s] Installed /home/hmashood/exercises_ws/build/ros2_exercises
+[16.817s] running symlink_data
+[17.460s] Invoked command in '/home/hmashood/exercises_ws/build/ros2_exercises' returned '0': PYTHONPATH=/home/hmashood/exercises_ws/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/ros2_exercises/build --no-deps symlink_data

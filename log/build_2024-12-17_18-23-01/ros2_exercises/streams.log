@@ -1,0 +1,24 @@
+[4.865s] Invoking command in '/home/hmashood/exercises_ws/build/ros2_exercises': PYTHONPATH=/home/hmashood/exercises_ws/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/ros2_exercises/build --no-deps symlink_data
+[7.278s] running develop
+[9.300s] running egg_info
+[9.300s] creating ros2_exercises.egg-info
+[9.301s] writing ros2_exercises.egg-info/PKG-INFO
+[9.301s] writing dependency_links to ros2_exercises.egg-info/dependency_links.txt
+[9.304s] writing entry points to ros2_exercises.egg-info/entry_points.txt
+[9.304s] writing requirements to ros2_exercises.egg-info/requires.txt
+[9.304s] writing top-level names to ros2_exercises.egg-info/top_level.txt
+[9.304s] writing manifest file 'ros2_exercises.egg-info/SOURCES.txt'
+[9.308s] reading manifest file 'ros2_exercises.egg-info/SOURCES.txt'
+[9.310s] writing manifest file 'ros2_exercises.egg-info/SOURCES.txt'
+[9.314s] running build_ext
+[9.314s] Creating /home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages/ros2-exercises.egg-link (link to .)
+[9.316s] Installing odometry_publisher script to /home/hmashood/exercises_ws/install/ros2_exercises/lib/ros2_exercises
+[9.317s] 
+[9.318s] Installed /home/hmashood/exercises_ws/build/ros2_exercises
+[9.318s] running symlink_data
+[9.318s] creating /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index
+[9.318s] creating /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index/resource_index
+[9.318s] creating /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index/resource_index/packages
+[9.318s] symbolically linking /home/hmashood/exercises_ws/build/ros2_exercises/resource/ros2_exercises -> /home/hmashood/exercises_ws/install/ros2_exercises/share/ament_index/resource_index/packages
+[9.318s] symbolically linking /home/hmashood/exercises_ws/build/ros2_exercises/package.xml -> /home/hmashood/exercises_ws/install/ros2_exercises/share/ros2_exercises
+[9.455s] Invoked command in '/home/hmashood/exercises_ws/build/ros2_exercises' returned '0': PYTHONPATH=/home/hmashood/exercises_ws/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/ros2_exercises/build --no-deps symlink_data

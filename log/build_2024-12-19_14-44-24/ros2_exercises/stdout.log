@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing ros2_exercises.egg-info/PKG-INFO
+writing dependency_links to ros2_exercises.egg-info/dependency_links.txt
+writing entry points to ros2_exercises.egg-info/entry_points.txt
+writing requirements to ros2_exercises.egg-info/requires.txt
+writing top-level names to ros2_exercises.egg-info/top_level.txt
+reading manifest file 'ros2_exercises.egg-info/SOURCES.txt'
+writing manifest file 'ros2_exercises.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages/ros2-exercises.egg-link (link to .)
+Installing odometry_publisher script to /home/hmashood/exercises_ws/install/ros2_exercises/lib/ros2_exercises
+
+Installed /home/hmashood/exercises_ws/build/ros2_exercises
+running symlink_data

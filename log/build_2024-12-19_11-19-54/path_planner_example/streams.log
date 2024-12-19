@@ -1,0 +1,24 @@
+[9.051s] Invoking command in '/home/hmashood/exercises_ws/build/path_planner_example': PYTHONPATH=/home/hmashood/exercises_ws/build/path_planner_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/path_planner_example/build --no-deps symlink_data
+[11.053s] running develop
+[12.368s] running egg_info
+[12.368s] creating path_planner_example.egg-info
+[12.368s] writing path_planner_example.egg-info/PKG-INFO
+[12.369s] writing dependency_links to path_planner_example.egg-info/dependency_links.txt
+[12.371s] writing entry points to path_planner_example.egg-info/entry_points.txt
+[12.371s] writing requirements to path_planner_example.egg-info/requires.txt
+[12.372s] writing top-level names to path_planner_example.egg-info/top_level.txt
+[12.372s] writing manifest file 'path_planner_example.egg-info/SOURCES.txt'
+[12.390s] reading manifest file 'path_planner_example.egg-info/SOURCES.txt'
+[12.392s] writing manifest file 'path_planner_example.egg-info/SOURCES.txt'
+[12.401s] running build_ext
+[12.402s] Creating /home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages/path-planner-example.egg-link (link to .)
+[12.406s] Installing path_planner_node script to /home/hmashood/exercises_ws/install/path_planner_example/lib/path_planner_example
+[12.407s] 
+[12.407s] Installed /home/hmashood/exercises_ws/build/path_planner_example
+[12.407s] running symlink_data
+[12.408s] creating /home/hmashood/exercises_ws/install/path_planner_example/share/ament_index
+[12.408s] creating /home/hmashood/exercises_ws/install/path_planner_example/share/ament_index/resource_index
+[12.408s] creating /home/hmashood/exercises_ws/install/path_planner_example/share/ament_index/resource_index/packages
+[12.410s] symbolically linking /home/hmashood/exercises_ws/build/path_planner_example/resource/path_planner_example -> /home/hmashood/exercises_ws/install/path_planner_example/share/ament_index/resource_index/packages
+[12.411s] symbolically linking /home/hmashood/exercises_ws/build/path_planner_example/package.xml -> /home/hmashood/exercises_ws/install/path_planner_example/share/path_planner_example
+[13.240s] Invoked command in '/home/hmashood/exercises_ws/build/path_planner_example' returned '0': PYTHONPATH=/home/hmashood/exercises_ws/build/path_planner_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/path_planner_example/build --no-deps symlink_data

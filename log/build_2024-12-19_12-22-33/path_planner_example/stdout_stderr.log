@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing path_planner_example.egg-info/PKG-INFO
+writing dependency_links to path_planner_example.egg-info/dependency_links.txt
+writing entry points to path_planner_example.egg-info/entry_points.txt
+writing requirements to path_planner_example.egg-info/requires.txt
+writing top-level names to path_planner_example.egg-info/top_level.txt
+reading manifest file 'path_planner_example.egg-info/SOURCES.txt'
+writing manifest file 'path_planner_example.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages/path-planner-example.egg-link (link to .)
+Installing path_planner_node script to /home/hmashood/exercises_ws/install/path_planner_example/lib/path_planner_example
+
+Installed /home/hmashood/exercises_ws/build/path_planner_example
+running symlink_data

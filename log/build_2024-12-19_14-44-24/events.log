@@ -1,0 +1,224 @@
+[0.000000] (-) TimerEvent: {}
+[0.006995] (path_planner_example) JobQueued: {'identifier': 'path_planner_example', 'dependencies': OrderedDict()}
+[0.007148] (ros2_exercises) JobQueued: {'identifier': 'ros2_exercises', 'dependencies': OrderedDict()}
+[0.007215] (path_planner_example) JobStarted: {'identifier': 'path_planner_example'}
+[0.039443] (ros2_exercises) JobStarted: {'identifier': 'ros2_exercises'}
+[0.069206] (-) TimerEvent: {}
+[0.169838] (-) TimerEvent: {}
+[0.270340] (-) TimerEvent: {}
+[0.371115] (-) TimerEvent: {}
+[0.471699] (-) TimerEvent: {}
+[0.574677] (-) TimerEvent: {}
+[0.675335] (-) TimerEvent: {}
+[0.775851] (-) TimerEvent: {}
+[0.877533] (-) TimerEvent: {}
+[0.978083] (-) TimerEvent: {}
+[1.081513] (-) TimerEvent: {}
+[1.182106] (-) TimerEvent: {}
+[1.283836] (-) TimerEvent: {}
+[1.384470] (-) TimerEvent: {}
+[1.485189] (-) TimerEvent: {}
+[1.585739] (-) TimerEvent: {}
+[1.686311] (-) TimerEvent: {}
+[1.787003] (-) TimerEvent: {}
+[1.887836] (-) TimerEvent: {}
+[1.988445] (-) TimerEvent: {}
+[2.089015] (-) TimerEvent: {}
+[2.194182] (-) TimerEvent: {}
+[2.294805] (-) TimerEvent: {}
+[2.395511] (-) TimerEvent: {}
+[2.497056] (-) TimerEvent: {}
+[2.598938] (-) TimerEvent: {}
+[2.699500] (-) TimerEvent: {}
+[2.800706] (-) TimerEvent: {}
+[2.901190] (-) TimerEvent: {}
+[3.001731] (-) TimerEvent: {}
+[3.102228] (-) TimerEvent: {}
+[3.202726] (-) TimerEvent: {}
+[3.303466] (-) TimerEvent: {}
+[3.404079] (-) TimerEvent: {}
+[3.506790] (-) TimerEvent: {}
+[3.607392] (-) TimerEvent: {}
+[3.707995] (-) TimerEvent: {}
+[3.808926] (-) TimerEvent: {}
+[3.909366] (-) TimerEvent: {}
+[4.011048] (-) TimerEvent: {}
+[4.111702] (-) TimerEvent: {}
+[4.212253] (-) TimerEvent: {}
+[4.312949] (-) TimerEvent: {}
+[4.413606] (-) TimerEvent: {}
+[4.514314] (-) TimerEvent: {}
+[4.615511] (-) TimerEvent: {}
+[4.716124] (-) TimerEvent: {}
+[4.816712] (-) TimerEvent: {}
+[4.917202] (-) TimerEvent: {}
+[5.017705] (-) TimerEvent: {}
+[5.118163] (-) TimerEvent: {}
+[5.218807] (-) TimerEvent: {}
+[5.319639] (-) TimerEvent: {}
+[5.420486] (-) TimerEvent: {}
+[5.521078] (-) TimerEvent: {}
+[5.621755] (-) TimerEvent: {}
+[5.722349] (-) TimerEvent: {}
+[5.823006] (-) TimerEvent: {}
+[5.923973] (-) TimerEvent: {}
+[6.024592] (-) TimerEvent: {}
+[6.125343] (-) TimerEvent: {}
+[6.225857] (-) TimerEvent: {}
+[6.328729] (-) TimerEvent: {}
+[6.429915] (-) TimerEvent: {}
+[6.530596] (-) TimerEvent: {}
+[6.631407] (-) TimerEvent: {}
+[6.732205] (-) TimerEvent: {}
+[6.832666] (-) TimerEvent: {}
+[6.933232] (-) TimerEvent: {}
+[7.033701] (-) TimerEvent: {}
+[7.134213] (-) TimerEvent: {}
+[7.235020] (-) TimerEvent: {}
+[7.336025] (-) TimerEvent: {}
+[7.437126] (-) TimerEvent: {}
+[7.542676] (-) TimerEvent: {}
+[7.643180] (-) TimerEvent: {}
+[7.743653] (-) TimerEvent: {}
+[7.844203] (-) TimerEvent: {}
+[7.944677] (-) TimerEvent: {}
+[8.045214] (-) TimerEvent: {}
+[8.145678] (-) TimerEvent: {}
+[8.246299] (-) TimerEvent: {}
+[8.346899] (-) TimerEvent: {}
+[8.447454] (-) TimerEvent: {}
+[8.547930] (-) TimerEvent: {}
+[8.648633] (-) TimerEvent: {}
+[8.749091] (-) TimerEvent: {}
+[8.849567] (-) TimerEvent: {}
+[8.950151] (-) TimerEvent: {}
+[9.050813] (-) TimerEvent: {}
+[9.151808] (-) TimerEvent: {}
+[9.252485] (-) TimerEvent: {}
+[9.354012] (-) TimerEvent: {}
+[9.454755] (-) TimerEvent: {}
+[9.555366] (-) TimerEvent: {}
+[9.655999] (-) TimerEvent: {}
+[9.756467] (-) TimerEvent: {}
+[9.856925] (-) TimerEvent: {}
+[9.957987] (-) TimerEvent: {}
+[10.058592] (-) TimerEvent: {}
+[10.159196] (-) TimerEvent: {}
+[10.260235] (-) TimerEvent: {}
+[10.361027] (-) TimerEvent: {}
+[10.461729] (-) TimerEvent: {}
+[10.562344] (-) TimerEvent: {}
+[10.663508] (-) TimerEvent: {}
+[10.763997] (-) TimerEvent: {}
+[10.864510] (-) TimerEvent: {}
+[10.965337] (-) TimerEvent: {}
+[11.066007] (-) TimerEvent: {}
+[11.166624] (-) TimerEvent: {}
+[11.267281] (-) TimerEvent: {}
+[11.367928] (-) TimerEvent: {}
+[11.468644] (-) TimerEvent: {}
+[11.569527] (-) TimerEvent: {}
+[11.670042] (-) TimerEvent: {}
+[11.770639] (-) TimerEvent: {}
+[11.827120] (ros2_exercises) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/hmashood/exercises_ws/build/ros2_exercises/build', '--no-deps', 'symlink_data'], 'cwd': '/home/hmashood/exercises_ws/build/ros2_exercises', 'env': {'VNCDESKTOP': '6be1e32f75ec:1 (hmashood)', 'QT_SCALE_FACTOR': '1', 'USER': 'hmashood', 'SUPERVISOR_GROUP_NAME': 'vnc', 'HOSTNAME': '6be1e32f75ec', 'XDG_SESSION_TYPE': 'x11', '__GLX_VENDOR_LIBRARY_NAME': 'nvidia', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/home/hmashood/ros2_ws/install/custom_nav2_planner/lib:/home/hmashood/ros2_ws/install/create_plan_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/hmashood', 'OLDPWD': '/home/hmashood/exercises_ws', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/terminator.desktop', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'DBUS_STARTER_BUS_TYPE': 'session', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-4H5sHDYvtO,guid=1c187b5a906137ddb1460dcf67617435', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '624452', 'GNOME_KEYRING_CONTROL': '/home/hmashood/.cache/keyring-L1AWY2', 'COLCON_PREFIX_PATH': '/home/hmashood/exercises_ws/install:/home/hmashood/ros2_ws/install:/home/hmashood/ros2_ws/src/install', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SESSION_MANAGER': 'local/6be1e32f75ec:@/tmp/.ICE-unix/786,unix/6be1e32f75ec:/tmp/.ICE-unix/786', 'DISPLAY': ':1', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'EXERCISES_WS': '/home/hmashood/exercises_ws', 'XDG_CURRENT_DESKTOP': 'MATE', 'SUPERVISOR_ENABLED': '1', 'SSH_AUTH_SOCK': '/home/hmashood/.cache/keyring-L1AWY2/ssh', 'ROS_DOMAIN_ID': '69', 'AMENT_PREFIX_PATH': '/home/hmashood/ros2_ws/install/ros2_exercises:/home/hmashood/ros2_ws/install/custom_nav2_planner:/home/hmashood/ros2_ws/install/create_plan_msgs:/home/hmashood/ros2_ws/install/andino_gz:/home/hmashood/exercises_ws/install/ros2_exercises:/home/hmashood/exercises_ws/install/path_planner_example:/home/hmashood/ros2_ws/src/install/ros2_exercises:/home/hmashood/ros2_ws/src/install/andino_gz:/opt/ros/humble', 'DEBIAN_FRONTEND': 'noninteractive', 'TERMINATOR_UUID': 'urn:uuid:7edc4bad-6fbf-4905-a44c-1be49ed90c6a', 'VNC_PASSWORD': '', 'IGN_GAZEBO_RESOURCE_PATH': '/home/hmashood/ros2_ws/install/andino_gz/share/andino_gz/models:/home/hmashood/ros2_ws/src/install/andino_gz/share/andino_gz/models', 'PASSWD': 'ubuntu', 'SUPERVISOR_SERVER_URL': 'unix:///var/run/supervisor.sock', 'SUPERVISOR_PROCESS_NAME': 'vnc', 'PWD': '/home/hmashood/exercises_ws/build/ros2_exercises', 'DBUS_STARTER_ADDRESS': 'unix:abstract=/tmp/dbus-4H5sHDYvtO,guid=1c187b5a906137ddb1460dcf67617435', 'PASSWORD': '', 'PYTHONPATH': '/home/hmashood/exercises_ws/build/ros2_exercises/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/ros2_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/ros2_ws/install/create_plan_msgs/local/lib/python3.10/dist-packages:/home/hmashood/ros2_ws/install/andino_gz/local/lib/python3.10/dist-packages:/home/hmashood/exercises_ws/build/ros2_exercises:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/exercises_ws/build/path_planner_example:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:/home/hmashood/ros2_ws/src/build/ros2_exercises:/home/hmashood/ros2_ws/src/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/ros2_ws/src/install/andino_gz/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'NVIDIA_VISIBLE_DEVICES': 'all', 'MATE_DESKTOP_SESSION_ID': 'this-is-deprecated', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/hmashood/ros2_ws/install/custom_nav2_planner:/home/hmashood/ros2_ws/install/create_plan_msgs:/home/hmashood/ros2_ws/install/andino_gz:/home/hmashood/ros2_ws/src/install/andino_gz', 'ROS2_WS': '/home/hmashood/ros2_ws', 'QT_FONT_DPI': '96'}, 'shell': False}
+[11.870774] (-) TimerEvent: {}
+[11.891925] (path_planner_example) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/hmashood/exercises_ws/build/path_planner_example/build', '--no-deps', 'symlink_data'], 'cwd': '/home/hmashood/exercises_ws/build/path_planner_example', 'env': {'VNCDESKTOP': '6be1e32f75ec:1 (hmashood)', 'QT_SCALE_FACTOR': '1', 'USER': 'hmashood', 'SUPERVISOR_GROUP_NAME': 'vnc', 'HOSTNAME': '6be1e32f75ec', 'XDG_SESSION_TYPE': 'x11', '__GLX_VENDOR_LIBRARY_NAME': 'nvidia', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/home/hmashood/ros2_ws/install/custom_nav2_planner/lib:/home/hmashood/ros2_ws/install/create_plan_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/hmashood', 'OLDPWD': '/home/hmashood/exercises_ws', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/terminator.desktop', 'ROS_PYTHON_VERSION': '3', 'LC_CTYPE': 'C.UTF-8', 'DBUS_STARTER_BUS_TYPE': 'session', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-4H5sHDYvtO,guid=1c187b5a906137ddb1460dcf67617435', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator23558193cd9818af7fe4d2c2f5bd9d00f', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '624452', 'GNOME_KEYRING_CONTROL': '/home/hmashood/.cache/keyring-L1AWY2', 'COLCON_PREFIX_PATH': '/home/hmashood/exercises_ws/install:/home/hmashood/ros2_ws/install:/home/hmashood/ros2_ws/src/install', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'GTK_OVERLAY_SCROLLING': '0', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'SESSION_MANAGER': 'local/6be1e32f75ec:@/tmp/.ICE-unix/786,unix/6be1e32f75ec:/tmp/.ICE-unix/786', 'DISPLAY': ':1', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'EXERCISES_WS': '/home/hmashood/exercises_ws', 'XDG_CURRENT_DESKTOP': 'MATE', 'SUPERVISOR_ENABLED': '1', 'SSH_AUTH_SOCK': '/home/hmashood/.cache/keyring-L1AWY2/ssh', 'ROS_DOMAIN_ID': '69', 'AMENT_PREFIX_PATH': '/home/hmashood/ros2_ws/install/ros2_exercises:/home/hmashood/ros2_ws/install/custom_nav2_planner:/home/hmashood/ros2_ws/install/create_plan_msgs:/home/hmashood/ros2_ws/install/andino_gz:/home/hmashood/exercises_ws/install/ros2_exercises:/home/hmashood/exercises_ws/install/path_planner_example:/home/hmashood/ros2_ws/src/install/ros2_exercises:/home/hmashood/ros2_ws/src/install/andino_gz:/opt/ros/humble', 'DEBIAN_FRONTEND': 'noninteractive', 'TERMINATOR_UUID': 'urn:uuid:7edc4bad-6fbf-4905-a44c-1be49ed90c6a', 'VNC_PASSWORD': '', 'IGN_GAZEBO_RESOURCE_PATH': '/home/hmashood/ros2_ws/install/andino_gz/share/andino_gz/models:/home/hmashood/ros2_ws/src/install/andino_gz/share/andino_gz/models', 'PASSWD': 'ubuntu', 'SUPERVISOR_SERVER_URL': 'unix:///var/run/supervisor.sock', 'SUPERVISOR_PROCESS_NAME': 'vnc', 'PWD': '/home/hmashood/exercises_ws/build/path_planner_example', 'DBUS_STARTER_ADDRESS': 'unix:abstract=/tmp/dbus-4H5sHDYvtO,guid=1c187b5a906137ddb1460dcf67617435', 'PASSWORD': '', 'PYTHONPATH': '/home/hmashood/exercises_ws/build/path_planner_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:/home/hmashood/ros2_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/ros2_ws/install/create_plan_msgs/local/lib/python3.10/dist-packages:/home/hmashood/ros2_ws/install/andino_gz/local/lib/python3.10/dist-packages:/home/hmashood/exercises_ws/build/ros2_exercises:/home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/exercises_ws/build/path_planner_example:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:/home/hmashood/ros2_ws/src/build/ros2_exercises:/home/hmashood/ros2_ws/src/install/ros2_exercises/lib/python3.10/site-packages:/home/hmashood/ros2_ws/src/install/andino_gz/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'NVIDIA_VISIBLE_DEVICES': 'all', 'MATE_DESKTOP_SESSION_ID': 'this-is-deprecated', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/hmashood/ros2_ws/install/custom_nav2_planner:/home/hmashood/ros2_ws/install/create_plan_msgs:/home/hmashood/ros2_ws/install/andino_gz:/home/hmashood/ros2_ws/src/install/andino_gz', 'ROS2_WS': '/home/hmashood/ros2_ws', 'QT_FONT_DPI': '96'}, 'shell': False}
+[11.970936] (-) TimerEvent: {}
+[12.071705] (-) TimerEvent: {}
+[12.172383] (-) TimerEvent: {}
+[12.273346] (-) TimerEvent: {}
+[12.373963] (-) TimerEvent: {}
+[12.474592] (-) TimerEvent: {}
+[12.575381] (-) TimerEvent: {}
+[12.675930] (-) TimerEvent: {}
+[12.776574] (-) TimerEvent: {}
+[12.877051] (-) TimerEvent: {}
+[12.977740] (-) TimerEvent: {}
+[13.078406] (-) TimerEvent: {}
+[13.179051] (-) TimerEvent: {}
+[13.280263] (-) TimerEvent: {}
+[13.383249] (-) TimerEvent: {}
+[13.483836] (-) TimerEvent: {}
+[13.584711] (-) TimerEvent: {}
+[13.685307] (-) TimerEvent: {}
+[13.786285] (-) TimerEvent: {}
+[13.886809] (-) TimerEvent: {}
+[13.987381] (-) TimerEvent: {}
+[14.087931] (-) TimerEvent: {}
+[14.188418] (-) TimerEvent: {}
+[14.289143] (-) TimerEvent: {}
+[14.389992] (-) TimerEvent: {}
+[14.490759] (-) TimerEvent: {}
+[14.591258] (-) TimerEvent: {}
+[14.691714] (-) TimerEvent: {}
+[14.792174] (-) TimerEvent: {}
+[14.893410] (-) TimerEvent: {}
+[14.944740] (ros2_exercises) StdoutLine: {'line': b'running develop\n'}
+[14.993607] (-) TimerEvent: {}
+[15.094143] (-) TimerEvent: {}
+[15.196702] (-) TimerEvent: {}
+[15.297327] (-) TimerEvent: {}
+[15.398169] (-) TimerEvent: {}
+[15.498577] (-) TimerEvent: {}
+[15.599083] (-) TimerEvent: {}
+[15.699575] (-) TimerEvent: {}
+[15.800032] (-) TimerEvent: {}
+[15.900707] (-) TimerEvent: {}
+[16.001329] (-) TimerEvent: {}
+[16.102124] (-) TimerEvent: {}
+[16.202763] (-) TimerEvent: {}
+[16.304237] (-) TimerEvent: {}
+[16.341966] (path_planner_example) StdoutLine: {'line': b'running develop\n'}
+[16.404382] (-) TimerEvent: {}
+[16.505062] (-) TimerEvent: {}
+[16.605614] (-) TimerEvent: {}
+[16.706130] (-) TimerEvent: {}
+[16.806705] (-) TimerEvent: {}
+[16.812129] (ros2_exercises) StdoutLine: {'line': b'running egg_info\n'}
+[16.812495] (ros2_exercises) StdoutLine: {'line': b'writing ros2_exercises.egg-info/PKG-INFO\n'}
+[16.813036] (ros2_exercises) StdoutLine: {'line': b'writing dependency_links to ros2_exercises.egg-info/dependency_links.txt\n'}
+[16.813482] (ros2_exercises) StdoutLine: {'line': b'writing entry points to ros2_exercises.egg-info/entry_points.txt\n'}
+[16.813697] (ros2_exercises) StdoutLine: {'line': b'writing requirements to ros2_exercises.egg-info/requires.txt\n'}
+[16.813847] (ros2_exercises) StdoutLine: {'line': b'writing top-level names to ros2_exercises.egg-info/top_level.txt\n'}
+[16.831976] (ros2_exercises) StdoutLine: {'line': b"reading manifest file 'ros2_exercises.egg-info/SOURCES.txt'\n"}
+[16.836460] (ros2_exercises) StdoutLine: {'line': b"writing manifest file 'ros2_exercises.egg-info/SOURCES.txt'\n"}
+[16.847999] (ros2_exercises) StdoutLine: {'line': b'running build_ext\n'}
+[16.848700] (ros2_exercises) StdoutLine: {'line': b'Creating /home/hmashood/exercises_ws/install/ros2_exercises/lib/python3.10/site-packages/ros2-exercises.egg-link (link to .)\n'}
+[16.854017] (ros2_exercises) StdoutLine: {'line': b'Installing odometry_publisher script to /home/hmashood/exercises_ws/install/ros2_exercises/lib/ros2_exercises\n'}
+[16.858577] (ros2_exercises) StdoutLine: {'line': b'\n'}
+[16.858914] (ros2_exercises) StdoutLine: {'line': b'Installed /home/hmashood/exercises_ws/build/ros2_exercises\n'}
+[16.859044] (ros2_exercises) StdoutLine: {'line': b'running symlink_data\n'}
+[16.906838] (-) TimerEvent: {}
+[17.007394] (-) TimerEvent: {}
+[17.108107] (-) TimerEvent: {}
+[17.208705] (-) TimerEvent: {}
+[17.309601] (-) TimerEvent: {}
+[17.410567] (-) TimerEvent: {}
+[17.501826] (ros2_exercises) CommandEnded: {'returncode': 0}
+[17.510834] (-) TimerEvent: {}
+[17.624035] (-) TimerEvent: {}
+[17.729423] (-) TimerEvent: {}
+[17.741886] (ros2_exercises) JobEnded: {'identifier': 'ros2_exercises', 'rc': 0}
+[17.829559] (-) TimerEvent: {}
+[17.896677] (path_planner_example) StdoutLine: {'line': b'running egg_info\n'}
+[17.897271] (path_planner_example) StdoutLine: {'line': b'writing path_planner_example.egg-info/PKG-INFO\n'}
+[17.897902] (path_planner_example) StdoutLine: {'line': b'writing dependency_links to path_planner_example.egg-info/dependency_links.txt\n'}
+[17.898381] (path_planner_example) StdoutLine: {'line': b'writing entry points to path_planner_example.egg-info/entry_points.txt\n'}
+[17.898813] (path_planner_example) StdoutLine: {'line': b'writing requirements to path_planner_example.egg-info/requires.txt\n'}
+[17.899363] (path_planner_example) StdoutLine: {'line': b'writing top-level names to path_planner_example.egg-info/top_level.txt\n'}
+[17.904229] (path_planner_example) StdoutLine: {'line': b"reading manifest file 'path_planner_example.egg-info/SOURCES.txt'\n"}
+[17.905450] (path_planner_example) StdoutLine: {'line': b"writing manifest file 'path_planner_example.egg-info/SOURCES.txt'\n"}
+[17.910306] (path_planner_example) StdoutLine: {'line': b'running build_ext\n'}
+[17.912916] (path_planner_example) StdoutLine: {'line': b'Creating /home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages/path-planner-example.egg-link (link to .)\n'}
+[17.916873] (path_planner_example) StdoutLine: {'line': b'Installing path_planner_node script to /home/hmashood/exercises_ws/install/path_planner_example/lib/path_planner_example\n'}
+[17.917692] (path_planner_example) StdoutLine: {'line': b'\n'}
+[17.917843] (path_planner_example) StdoutLine: {'line': b'Installed /home/hmashood/exercises_ws/build/path_planner_example\n'}
+[17.918243] (path_planner_example) StdoutLine: {'line': b'running symlink_data\n'}
+[17.929752] (-) TimerEvent: {}
+[18.030207] (-) TimerEvent: {}
+[18.130734] (-) TimerEvent: {}
+[18.141217] (path_planner_example) CommandEnded: {'returncode': 0}
+[18.244843] (-) TimerEvent: {}
+[18.344914] (path_planner_example) JobEnded: {'identifier': 'path_planner_example', 'rc': 0}
+[18.346134] (-) TimerEvent: {}
+[18.371950] (-) EventReactorShutdown: {}

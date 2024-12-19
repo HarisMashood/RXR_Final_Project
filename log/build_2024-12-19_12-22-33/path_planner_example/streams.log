@@ -1,0 +1,17 @@
+[10.920s] Invoking command in '/home/hmashood/exercises_ws/build/path_planner_example': PYTHONPATH=/home/hmashood/exercises_ws/build/path_planner_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/path_planner_example/build --no-deps symlink_data
+[13.351s] running develop
+[14.353s] running egg_info
+[14.353s] writing path_planner_example.egg-info/PKG-INFO
+[14.353s] writing dependency_links to path_planner_example.egg-info/dependency_links.txt
+[14.353s] writing entry points to path_planner_example.egg-info/entry_points.txt
+[14.354s] writing requirements to path_planner_example.egg-info/requires.txt
+[14.354s] writing top-level names to path_planner_example.egg-info/top_level.txt
+[14.359s] reading manifest file 'path_planner_example.egg-info/SOURCES.txt'
+[14.361s] writing manifest file 'path_planner_example.egg-info/SOURCES.txt'
+[14.369s] running build_ext
+[14.369s] Creating /home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages/path-planner-example.egg-link (link to .)
+[14.371s] Installing path_planner_node script to /home/hmashood/exercises_ws/install/path_planner_example/lib/path_planner_example
+[14.371s] 
+[14.371s] Installed /home/hmashood/exercises_ws/build/path_planner_example
+[14.371s] running symlink_data
+[14.594s] Invoked command in '/home/hmashood/exercises_ws/build/path_planner_example' returned '0': PYTHONPATH=/home/hmashood/exercises_ws/build/path_planner_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hmashood/exercises_ws/install/path_planner_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hmashood/exercises_ws/build/path_planner_example/build --no-deps symlink_data
